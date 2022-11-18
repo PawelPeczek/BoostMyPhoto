@@ -17,10 +17,10 @@ the more important the text input is for generating the output image.
     <th>Image</th>
   </tr>
   <tr>
-    <td>Original image (base for further transforms)</td>
-    <td><img src="./assets/pawel.jpg" height=256px width=256px /></td>
-    <td>"Incredibly handsome man with sunglasses"</td>
-    <td><img src="./assets/handsome.jpg" height=256px width=256px /></td>
+    <td width="20%">Original image (base for further transforms)</td>
+    <td width="30%"><img src="./assets/pawel.jpg" height=256px width=256px /></td>
+    <td width="20%">"Incredibly handsome man with sunglasses"</td>
+    <td width="30%"><img src="./assets/handsome.jpg" height=256px width=256px /></td>
    </tr>
   <tr>
     <td>"A man depcited on the painting by Claude Monet"</td>
