@@ -11,14 +11,20 @@ the more important the text input is for generating the output image.
 
 <table>
   <tr>
-    <th>Description or text input prompt</th>
+    <th>Prompt</th>
+    <th>Image</th>
+    <th>Prompt</th>
     <th>Image</th>
   </tr>
   <tr>
     <td>Original image (base for further transforms)</td>
     <td><img src="./assets/pawel.jpg" height=256px width=256px /></td>
+    <td>"Incredibly handsome man with sunglasses"</td>
+    <td><img src="./assets/handsome.jpg" height=256px width=256px /></td>
    </tr>
   <tr>
+    <td>"A man depcited on the painting by Claude Monet"</td>
+    <td><img src="./assets/claude_monet.jpg" height=256px width=256px /></td>
     <td>"Incredibly handsome man with sunglasses"</td>
     <td><img src="./assets/handsome.jpg" height=256px width=256px /></td>
   </tr>

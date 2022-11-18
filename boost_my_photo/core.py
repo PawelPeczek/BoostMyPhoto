@@ -32,7 +32,7 @@ from boost_my_photo.constants import MODEL_ID, REVISION, RGB_MODE, MAX_IMAGE_SIZ
     "--prompt-importance",
     type=float,
     required=False,
-    default=0.75,
+    default=7.5,
     help="Value in range (1.0, ...) describing how important is text prompt for output image.",
 )
 @click.option(
