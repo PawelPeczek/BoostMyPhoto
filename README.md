@@ -25,8 +25,14 @@ the more important the text input is for generating the output image.
   <tr>
     <td>"A man depcited on the painting by Claude Monet"</td>
     <td><img src="./assets/claude_monet.jpg" height=256px width=256px /></td>
-    <td>"Incredibly handsome man with sunglasses"</td>
-    <td><img src="./assets/handsome.jpg" height=256px width=256px /></td>
+    <td>"A man depcited on the painting by Pablo Picasso"</td>
+    <td><img src="./assets/pablo_picasso.jpg" height=256px width=256px /></td>
+  </tr>
+  <tr>
+    <td>"A man in the world of Star Wars"</td>
+    <td><img src="./assets/star_wars.jpg" height=256px width=256px /></td>
+    <td>"A man wearing pirate hat"</td>
+    <td><img src="./assets/pirate_hat.jpg" height=256px width=256px /></td>
   </tr>
 </table>
 
