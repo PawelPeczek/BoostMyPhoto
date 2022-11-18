@@ -16,11 +16,11 @@ the more important the text input is for generating the output image.
   </tr>
   <tr>
     <td>Original image (base for further transforms)</td>
-    <td><img src="./assets/pawel.jpg" height="256" width="256" /></td>
+    <td><img src="./assets/pawel.jpg" height=256px width=256px /></td>
    </tr>
   <tr>
     <td>"Incredibly handsome man with sunglasses"</td>
-    <td><img src="./assets/handsome.jpg" height="256" width="256" /></td>
+    <td><img src="./assets/handsome.jpg" height=256px width=256px /></td>
   </tr>
 </table>
 
